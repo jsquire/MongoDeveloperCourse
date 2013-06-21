@@ -1,0 +1,95 @@
+# General
+[Bb]in/
+[Oo]bj/
+[Tt]mp/
+[Pp]kg/
+[Cc]vs/
+[Dd]ebug/
+[Rr]elease/
+[tT]emp/
+[tT]empPE/
+[Tt]estResults/
+temp/
+.svn/
+_private/
+_vti_bin/
+_vti_cnf/
+_vti_log/
+_vti_pvt/
+_vti_script/
+_vti_txt/
+*.bak
+*.obj
+*.ncb
+*.lib
+*.idb
+*.pdb
+*.ilk
+*.msi
+*.pch
+*.suo
+*.aps
+*.user
+*.csproj.user
+*.suo
+*.vsmdi
+*.webinfo
+*.pdb
+*.*scc
+*.log
+.DS_Store?
+*-results.xml
+*.incr
+*.vssscc
+*.scc
+*.SCC
+*.vspscc
+*.projdata
+*.vbw ~vssc
+*[tT]humbs.db
+*.log
+*.tmp
+*.temp
+~$*
+~$*.*
+*.*~
+*.~*
+~*.*
+[Dd]esktop.ini 
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
